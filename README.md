@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `1h` sample updated in sync
 
-> **Sample on GitHub** · `GBPUSD_1h.csv` (925 rows, `2026-07-09` -> `2026-09-02`, 88.63 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/gbpusd)** — **153,903** `1h` rows (full `1m`: 9,194,075), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
+> **Sample on GitHub** · `GBPUSD_1h.csv` (924 rows, `2026-07-09` -> `2026-09-02`, 88.53 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/gbpusd)** — **153,903** `1h` rows (full `1m`: 9,171,581), **11 timeframes**, `2001-11-28` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | British Pound / US Dollar · Forex | British Pound / US Dollar · Forex |
 | Timeframes | `1h` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 1h rows | 925 | **153,903** |
-| Size | 88.63 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/gbpusd) |
+| 1h rows | 924 | **153,903** |
+| Size | 88.53 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/gbpusd) |
 | Period | `2026-07-09` -> `2026-09-02` | `2001-11-28` -> `2026-09-02` |
 | File | `GBPUSD_1h.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/gbpusd) |
 | Coverage report | — | [GBPUSD coverage](https://getdata.finance/coverage/gbpusd) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`GBPUSD_1h.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09T14:00:00+00:00 | 1.34319 | 1.34419 | 1.34185 | 1.3422 | 18500 |
 | 2026-07-09T15:00:00+00:00 | 1.3422 | 1.34397 | 1.34178 | 1.3438 | 13066 |
 | 2026-07-09T16:00:00+00:00 | 1.3438 | 1.3443 | 1.34332 | 1.34407 | 8532 |
 | 2026-07-09T17:00:00+00:00 | 1.34407 | 1.34476 | 1.34388 | 1.3447 | 6567 |
 | 2026-07-09T18:00:00+00:00 | 1.3447 | 1.34502 | 1.34415 | 1.34466 | 6811 |
+| 2026-07-09T19:00:00+00:00 | 1.34466 | 1.34484 | 1.34357 | 1.34385 | 7530 |
 
 **Last rows**
 
